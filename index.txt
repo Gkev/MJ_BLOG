@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <title></title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <form>
+         <h1>Michael Jordon</h1>
+         <img src="img/Jordon.jpg" width="42" height="56">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at enim nisi. Pellentesque mollis ullamcorper sapien, in bibendum lectus fermentum id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus condimentum nunc vel massa tempus, sit amet venenatis lectus mattis. Donec quis condimentum felis. Aliquam. </p>
+
+    <table>
+          <thead>
+               <tr>
+                 <th>Year</th>
+                 <th>PPG</th>
+                 <th>MVP</th>
+               </tr>
+          </thead>
+          <tbody>
+               <tr>
+                 <td>1990-91</td>
+                 <td>31.5</td>
+                 <td>Yes</td>
+               </tr>
+               <tr>
+                 <td>1991-92</td>
+                 <td>30.1</td>
+                 <td>Yes</td>
+               </tr>
+               <tr>
+                 <td>1992-93</td>
+                 <td>32.6</td>
+                 <td>No</td>
+               </tr>
+               <tr>
+                 <td>1995-96</td>
+                 <td>30.4</td>
+                 <td>Yes</td>
+               </tr>
+               <tr>
+                 <td>1996-97</td>
+                 <td>29.6</td>
+                 <td>No</td>
+               </tr>
+               <tr>
+                 <td>1997-98</td>
+                 <td>28.7</td>
+                 <td>Yes</td>
+               </tr>
+               </tbody>
+
+     </table> 
+           <ul>
+                    <li>1984-1993 Chicago Bulls</li>
+                    <li>1995-1998 Chicago Bulls</li>
+                    <li>2001-2003 Washingto Wizards</li>
+               </ul>
+
+               <a href="#" >Click For Awesome Hilghlight Video</a>
+
+               <h1>Please take this short survey</h1>
+
+               <label for="email">Email:</label>
+               <textarea rows="3" cols="40"></textarea>
+               <br><br>
+
+               <input type="radio" name="">
+               <label for="send">Yes, please send me lots of email</label>
+
+               <input type="radio" name="">
+               <label for="send">No, please do not send me any email</label>
+               <br><br>
+
+               <p>How did you hear abou us?</p>
+               <input type="checkbox" name="" value="">
+               <label for="face">Facebook</label>
+               <br>
+
+               <input type="checkbox" name="" value="">
+               <label for="news">News</label>
+               <br>
+
+               <input type="checkbox" name="" value="">
+               <label for="ref">Referal</label>
+               <br><br>
+               
+               <input type="submit" name="" value="Submit">
+
+               
+          
+
+     </form>
+</body>
+</html>
